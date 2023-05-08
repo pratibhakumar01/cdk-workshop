@@ -5,6 +5,9 @@ which contains an Amazon Lambda, DynamoDB and API Gateway.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
+![image](https://user-images.githubusercontent.com/117362364/236733031-4af1d7f3-1b03-406b-bb3a-81ead97a5444.png)
+
+
 ## Useful commands
 
 * `npm run build`   compile typescript to js
